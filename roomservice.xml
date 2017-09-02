@@ -19,4 +19,6 @@
   <project path="hardware/samsung_slsi-cm/openmax" name="LineageOS/android_hardware_samsung_slsi-cm_openmax" remote="github" revision="cm-14.1" />
   <project path="hardware/samsung_slsi-cm/exynos8890" name="LineageOS/android_hardware_samsung_slsi-cm_exynos8890" remote="github" revision="cm-14.1" />
 
+  <!-- Toolchain-->
+  <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-cortex_a53-linux-gnueabi" name="djb77/aarch64-cortex_a53-linux-gnueabi" remote="github" revision="uber" />
 </manifest>
